@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @joshuaevan
-- 👀 I’m interested in all things technology
-- 🌱 I’m currently learning whatever i can get my hands on.
-- 💞️ I’m looking to collaborate on whatever interests me at the time.
-- 📫 Reach me on twitter: @joshuaDevelops
+Hi, I’m Josh.
+
+Senior full-stack developer interested in building practical solutions for myself and others. I work across frontend, backend, and infrastructure, and I’m always learning through real use cases.
 
 <!---
 joshuaevan/joshuaevan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
